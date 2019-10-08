@@ -111,7 +111,7 @@ author:
   avatar           : "https://avatars2.githubusercontent.com/u/20204837" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "특이한것을 좋아합니다."
   location         : "Seoul, Korea"
-  email            :
+  email            : "basicneural@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
