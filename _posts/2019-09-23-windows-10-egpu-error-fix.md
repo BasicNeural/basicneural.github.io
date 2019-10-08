@@ -1,7 +1,6 @@
 ---
-layout: post
 title: 윈도우 10 egpu 에러 해결
-tags: [기타]
+categories: 기타
 comments: true
 ---
 어느날 윈도우를 사용하는데 egpu 연결 시 `리소스 부족 12` 에러가 났다.

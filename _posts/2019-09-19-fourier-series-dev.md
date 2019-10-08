@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 하스켈로 푸리에 변환 시각화하기
 subtitle: OpenGL로 그려봄
-tags: [개발, Haskell, OpenGL, 수학]
+categories: 개발
+tags: [Haskell, OpenGL, 수학]
 comments: true
 ---
 3Blue1Brown의 [푸리에 변환이 대체 뭘까요?](https://youtu.be/spUNpyF58BY) 라는 영상을 보고 삘받아서 만들어봤다.

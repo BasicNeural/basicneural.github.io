@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 하스켈로 OpenGL 하기
 subtitle: FreeGLUT로 간단하게 만들어봅시다
-tags: [개발, Haskell, OpenGL]
+categories: 개발
+tags: [Haskell, OpenGL]
 comments: true
 ---
 
