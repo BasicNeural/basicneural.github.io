@@ -52,6 +52,6 @@ comments: true
 
 ## 참고 자료
 
-[Sung Kim - 모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
-[Terry TaeWoong Um 유튜브](https://www.youtube.com/user/TerryTaewoongUm/featured)
-[곰가드의 라이브러리 - 옵티마이저](https://gomguard.tistory.com/187)
+* [Sung Kim - 모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
+* [Terry TaeWoong Um 유튜브](https://www.youtube.com/user/TerryTaewoongUm/featured)
+* [곰가드의 라이브러리 - 옵티마이저](https://gomguard.tistory.com/187)
