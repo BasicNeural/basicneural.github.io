@@ -7,7 +7,7 @@ comments: true
 
 ## 개발 목표
 
-상용 인공지능 프레임워크(TF, Keras 등)들과 비슷한 수준의 API를 제공하는 프레임워크를 제작한다. 각자 원하는 언어로 구현하며, 최소한의 라이브러리만으로 구현하는 것을 목표로 한다.
+상용 인공지능 프레임워크(TF, Keras 등)들과 비슷한 수준의 API를 제공하는 프레임워크를 제작한다. 각자 원하는 언어로 구현하며, 최소한의 라이브러리만으로 구현하는 것을 목표로 한다. 개발을 하며 다양한 신경망을 직접 구현하면서 만든 프레임워크를 개선한다.
 
 ## To-do List
 
@@ -52,4 +52,6 @@ comments: true
 
 ## 참고 자료
 
+[Sung Kim - 모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
+[Terry TaeWoong Um 유튜브](https://www.youtube.com/user/TerryTaewoongUm/featured)
 [곰가드의 라이브러리 - 옵티마이저](https://gomguard.tistory.com/187)
