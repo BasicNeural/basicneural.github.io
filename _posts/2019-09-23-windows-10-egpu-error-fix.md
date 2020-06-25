@@ -20,3 +20,7 @@ comments: true
 * Razer core v1
 * Radeon vega 56
 * Windows 10 1903 
+
+## 내용 추가
+
+이러한 문제는 최신 버전의 pci 드라이버가 Radeon 그래픽카드가 egpu 환경에서 호환이 되지 않는 문제이다. 구버전 윈도우에서 `pci.sys`파일을 추출해서 현재 윈도우의 파일을 교환하면 해결 할 수 있다. 일부 업데이트는 `pci.sys` 파일을 교체하기 때문에 업데이트 후 egpu 실행이 불가능하다면 다시 교체해야 한다.
